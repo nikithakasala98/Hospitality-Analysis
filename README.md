@@ -113,7 +113,7 @@ Following the project kick-off meetings, the data engineering team will provide 
 - Follow best practices for data modeling. Refer to this blog for more information. [Blog](https://addendanalytics.com/blog/data-modelling-best-practices/)
 - This project follows the Snowflake data modeling method.
 
-<img src="https://github.com/nikithakasala98/Brick-mortar-and-e-commerce/blob/main/Resources/Data_model.png" class="center">
+<img src="https://github.com/nikithakasala98/Hospitality-Analysis/blob/main/Resources/Data_Model.png" class="center">
 
 ### Dashboard designing
 
@@ -123,42 +123,11 @@ Based on the received mock-ups, the team will start designing the visuals and cr
 
 The Home View contains buttons that lead to different sections of the report. Users can navigate to specific pages by clicking the buttons:
 
-- Info
 - Finance View
-- Sales View
-- Marketing View
-- Supply chain View
-- Executive View
-- Filter
-- Support
-
-## Home Report
-
-![Home Report](https://github.com/nikithakasala98/Brick-mortar-and-e-commerce/blob/main/Resources/Home.gif)
-
-## Info Page
-
-![Info](https://github.com/nikithakasala98/Brick-mortar-and-e-commerce/blob/main/Resources/information.gif)
 
 ## Finance View
 
 ![Finace](https://github.com/nikithakasala98/Brick-mortar-and-e-commerce/blob/main/Resources/Finance.gif)
-
-## Sales View
-
-![Sales](https://github.com/nikithakasala98/Brick-mortar-and-e-commerce/blob/main/Resources/Sales.gif)
-
-## Marketing View
-
-![Marketing](https://github.com/nikithakasala98/Brick-mortar-and-e-commerce/blob/main/Resources/Market.gif)
-
-## Supply chain View
-
-![Supply chain](https://github.com/nikithakasala98/Brick-mortar-and-e-commerce/blob/main/Resources/Supply-Chain.gif)
-
-## Executive View
-
-![Executive](https://github.com/nikithakasala98/Brick-mortar-and-e-commerce/blob/main/Resources/Executive.gif)
 
 
 you can find the full report file here : [Report](https://github.com/nikithakasala98/Brick-mortar-and-e-commerce/blob/main/Report/Data_Analysis_360degrees_Project.pbix)
