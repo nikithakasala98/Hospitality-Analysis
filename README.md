@@ -119,15 +119,11 @@ Following the project kick-off meetings, the data engineering team will provide 
 
 Based on the received mock-ups, the team will start designing the visuals and creating measures as needed.
 
-## Home view
-
-The Home View contains buttons that lead to different sections of the report. Users can navigate to specific pages by clicking the buttons:
-
 - Finance View
 
 ## Finance View
 
-![Finace](https://github.com/nikithakasala98/Brick-mortar-and-e-commerce/blob/main/Resources/Finance.gif)
+![Finace](https://github.com/nikithakasala98/Hospitality-Analysis/blob/main/Resources/Finance.gif)
 
 
 you can find the full report file here : [Report](https://github.com/nikithakasala98/Hospitality-Analysis/blob/main/Report/Health_Care_Report.pbix)
