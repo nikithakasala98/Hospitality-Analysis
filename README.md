@@ -130,4 +130,4 @@ you can find the full report file here : [Report](https://github.com/nikithakasa
 
 ## Project Outcome
 
-This report enables data-driven decision-making and provides answers to a variety of "why" questions based on the situation.
+The project successfully transformed healthcare data into meaningful insights, providing a comprehensive view of the healthcare center's financial and operational performance.
