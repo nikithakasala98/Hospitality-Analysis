@@ -130,8 +130,7 @@ The Home View contains buttons that lead to different sections of the report. Us
 ![Finace](https://github.com/nikithakasala98/Brick-mortar-and-e-commerce/blob/main/Resources/Finance.gif)
 
 
-you can find the full report file here : [Report](https://github.com/nikithakasala98/Brick-mortar-and-e-commerce/blob/main/Report/Data_Analysis_360degrees_Project.pbix)
-
+you can find the full report file here : [Report](https://github.com/nikithakasala98/Hospitality-Analysis/blob/main/Report/Health_Care_Report.pbix)
 
 ## Project Outcome
 
